@@ -42,9 +42,18 @@ Ready to bring your project to life? Let's create some tech magic that'll leave 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/me_sajeeb)
 
 
-### Numbers
-![Sajeeb's Stats](https://github-readme-stats.vercel.app/api?username=sajeeb-me&show_icons=true&hide_border=true&count_private=true)
+## Numbers
+<p style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeeb-me&hide_border=true" alt="Sajeeb's Streak">
+</p>
 
-![Sajeeb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajeeb-me&hide_border=true)
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajeeb-me&show_icons=true&hide_border=true&count_private=true" alt="Sajeeb's Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeeb-me&show_icons=true&hide_border=true&layout=compact" alt="Sajeeb's Streak">
+</div>
 
-![Sajeeb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeeb-me&show_icons=true&hide_border=true&layout=compact)
+<!-- ![Sajeeb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajeeb-me&hide_border=true) -->
+
+<!-- ![Sajeeb's Stats](https://github-readme-stats.vercel.app/api?username=sajeeb-me&show_icons=true&hide_border=true&count_private=true) -->
+
+<!-- ![Sajeeb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeeb-me&show_icons=true&hide_border=true&layout=compact) -->
