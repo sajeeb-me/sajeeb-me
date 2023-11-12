@@ -43,12 +43,9 @@ Ready to bring your project to life? Let's create some tech magic that'll leave 
 
 
 ## Numbers
-<p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeeb-me&hide_border=true" alt="Sajeeb's Streak">
-</p>
-
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=sajeeb-me&show_icons=true&hide_border=true&count_private=true" alt="Sajeeb's Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeeb-me&hide_border=true" alt="Sajeeb's Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeeb-me&show_icons=true&hide_border=true&layout=compact" alt="Sajeeb's Streak">
 </div>
 
