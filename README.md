@@ -43,8 +43,8 @@ Ready to bring your project to life? Let's create some tech magic that'll leave 
 
 
 ### Numbers
-![Sajeeb's Stats](https://github-readme-stats.vercel.app/api?username=sajeeb-me&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Sajeeb's Stats](https://github-readme-stats.vercel.app/api?username=sajeeb-me&show_icons=true&hide_border=true&count_private=true)
 
-![Sajeeb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajeeb-me&theme=darcula&hide_border=true)
+![Sajeeb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajeeb-me&hide_border=true)
 
-![Sajeeb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeeb-me&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Sajeeb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeeb-me&show_icons=true&hide_border=true&layout=compact)
