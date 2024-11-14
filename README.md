@@ -1,17 +1,14 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! It’s wonderful to see you.</h1>
 
-I'm a Full Stack Engineer on a mission to turn digital dreams into reality. With expertise in React Native, Next.js, and TypeScript, I wield my keyboard like a magic wand to craft exceptional web experiences. Currently, **I'm open to work and employment opportunities**.
-
-I take a no-nonsense approach to build robust and scalable applications, but here's the twist - my code is funnier than my jokes! I blend professionalism with humor, ensuring that work is both efficient and enjoyable.
+I am a Full Stack Engineer inspired to turn digital dreams into reality, empowering innovation and creativity. With a strong foundation in problem-solving skills and proficiency in modern technologies such as React Native, Next.js, and TypeScript, I utilize my technical expertise to develop exceptional web experiences. Currently, **I'm open to work and employment opportunities**.
 
 Ready to bring your project to life? Let's create some tech magic that'll leave everyone grinning. Get in touch, and let the fun begin!
 
 
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about JavaScript, TypeScript, NextJs and API development.
-- 📫 I am just one mail away - [hellosdshuvo@gmail.com]
-- 😄 Pronouns: He, Traveler, Believer & Happy 😄
+- 💬 Ask me about DSA, Problem Solving, JavaScript, TypeScript, NextJs.
+- 📫 I am just one mail away - [sajeeb.das@hotmail.com]
+- 😄 Pronouns: He, Believer & Happy 😄
 
 
 ### My Key Skills
