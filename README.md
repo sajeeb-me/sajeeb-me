@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! It’s wonderful to see you.</h1>
 
-I am a Full Stack Engineer inspired to turn digital dreams into reality, empowering innovation and creativity. With a strong foundation in problem-solving skills and proficiency in modern technologies such as React Native, Next.js, and TypeScript, I utilize my technical expertise to develop exceptional web experiences. Currently, **I'm open to work and employment opportunities**.
+I am a Software Engineer inspired to turn digital dreams into reality, empowering innovation and creativity. With a strong foundation in problem-solving skills and proficiency in modern technologies such as React Native, Next.js, and TypeScript, I utilize my technical expertise to develop exceptional web experiences. Currently, **I'm open to work and employment opportunities**.
 
 Ready to bring your project to life? Let's create some tech magic that'll leave everyone grinning. Get in touch, and let the fun begin!
 
